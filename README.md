@@ -1,16 +1,22 @@
-# basics
+# Dice Roller App
 
-A new Flutter project.
+A Flutter-based Dice Roller application that provides an engaging platform to play with the virtual Dice.
 
-## Getting Started
+# Purpose for building this Dice Roller App
 
-This project is a starting point for a Flutter application.
+In very hypothertical condition, If user want to play and dice roller based game in offline mode, But! he/she doesn't having a real dice (and they may be possible, we might sometimes losses or dice). So they can use this "Dice Roller App" instead to arranging a new dice.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- User-friendly interface
+- Instant results on click
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/Priya-1305/Quiz_App
